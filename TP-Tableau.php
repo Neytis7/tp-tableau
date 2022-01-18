@@ -16,3 +16,4 @@ shuffle($randTableau);
 
 //Etape 6 
 print_r(array_values($randTableau));
+?>
